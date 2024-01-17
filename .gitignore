@@ -1,0 +1,5 @@
+**/csv/
+**/csv_s3/
+**/.env
+**/.env.tmpl
+**/makefile

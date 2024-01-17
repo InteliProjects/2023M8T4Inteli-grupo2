@@ -1,0 +1,8 @@
+README.md
+setup.py
+cnpj/__init__.py
+cnpj/lib.py
+cnpj.egg-info/PKG-INFO
+cnpj.egg-info/SOURCES.txt
+cnpj.egg-info/dependency_links.txt
+cnpj.egg-info/top_level.txt

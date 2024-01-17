@@ -1,0 +1,15 @@
+Código da variável,Tradução código da variável
+UF,unidade_federacao
+ESTRATO_POF,estratificacao_geografica
+TIPO_SITUACAO_REG,situacao_domicilio
+COD_UPA,codigo_unidade_primaria_amostragem
+NUM_DOM,numero_domicilio
+NUM_UC,numero_unidade_consumo
+COD_INFORMANTE,numero_informante
+QUADRO,quadro
+SEQ,numero_sequencial_linha_quadro
+V9001,codigo_despesa_aquisicao
+V9013,motivo_restricao
+PESO,fator_expansao_upa
+PESO_FINAL,fator_expansao_upa_final
+RENDA_TOTAL,renda_bruta_mensal_total

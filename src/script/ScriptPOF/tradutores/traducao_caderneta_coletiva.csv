@@ -1,0 +1,24 @@
+Código da variável,Tradução código da variável
+UF,unidade_federativa
+ESTRATO_POF,estratificacao_geografica
+TIPO_SITUACAO_REG,situacao_domicilio
+COD_UPA,codigo_unidade_primaria_amostragem
+NUM_DOM,numero_domicilio
+NUM_UC,numero_unidade_consumo
+QUADRO,quadro
+SEQ,numero_sequencial_linha_quadro
+V9001,codigo_tipo_despesa_aquisicao
+V9002,forma_aquisicao
+V8000,despesa_aquisicao_unidade_consumo
+DEFLATOR,deflator
+V8000_DEFLA,valor_despesa_aquisicao_deflacionado
+COD_IMPUT_VALOR,valor_despesa_aquisicao_imputado
+FATOR_ANUALIZACAO,anualizacao_despesas_aquisicoes
+PESO,fator_expansao_upa
+PESO_FINAL,fator_expansao_upa_final
+RENDA_TOTAL,renda_bruta_mensal_total
+V9005,quantidade_produto_adquirido
+V9007,codigo_unidade_medida
+V9009,peso_volume_referente_unidade_medida
+QTD_FINAL,quantidade_final_kilogramas
+V9004,codigo_local_aquisicao

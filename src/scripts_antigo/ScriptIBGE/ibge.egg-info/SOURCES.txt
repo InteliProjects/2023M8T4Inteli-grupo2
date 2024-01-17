@@ -1,0 +1,8 @@
+README.md
+setup.py
+ibge/__init__.py
+ibge/lib.py
+ibge.egg-info/PKG-INFO
+ibge.egg-info/SOURCES.txt
+ibge.egg-info/dependency_links.txt
+ibge.egg-info/top_level.txt

@@ -1,0 +1,32 @@
+Código da variável,Tradução código da variável
+UF,unidade_federacao
+ESTRATO_POF,estratificacao_geografica
+TIPO_SITUACAO_REG,situacao_domicilio
+COD_UPA,codigo_unidade_primaria_amostragem
+NUM_DOM,numero_domicilio
+NUM_UC,numero_unidade_consumo
+COD_INFORMANTE ,numero_informante
+V7101,utilizacao_acucar/adocante
+V7102,utilizacao_sal
+V71031,utilizacao_multivitaminas
+V71032,utilizacao_ferro
+V71033,utilizacao_vitaminaB
+V71034,utilizacao_vitaminaC
+V71035,utilizacao_omega3
+V71036,utilizacao_calcio
+V71037,utilizacao_suplemento_atleta
+V71038,utilizacao_suplemento
+V7104,dieta
+V71051,dieta_emagrecer
+V71052,dieta_pressao
+V71053,dieta_colesterol
+V71054,dieta_diabetes
+V71055,dieta_coracao
+V71056,dieta_outro
+V71A01,gravidez
+V71A02,amamentacao
+V72C01,peso_kg
+V72C02,altura_cm
+PESO,fator_expansao_upa
+PESO_FINAL,fator_expansao_upa_final
+RENDA_TOTAL,renda_bruta_mensal_total

@@ -1,0 +1,6 @@
+pytest
+boto3
+pandas
+numpy
+azure-storage-blob
+google-cloud-storage

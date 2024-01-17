@@ -1,0 +1,74 @@
+Zona_Postal,Abrangencia,Regiao,Faixa_CEP
+0xxxx,Região Metropolitana de São Paulo (SP),São Paulo,01000 - 05999
+0xxxx,Região Metropolitana de São Paulo (SP),São Paulo,08000 - 08499
+0xxxx,Região Metropolitana de São Paulo (SP),SP Região Metropolitana de São Paulo,06000 - 07999
+0xxxx,Região Metropolitana de São Paulo (SP),SP Região Metropolitana de São Paulo,08500 - 09999
+0xxxx,Litoral e interior de SP,SP Litoral,11000 - 11999
+0xxxx,Litoral e interior de SP,SP Interior,12000 - 19999
+2xxxx,Rio de Janeiro (RJ),Rio de Janeiro,20000 - 23799
+2xxxx,Rio de Janeiro (RJ),RJ Região Metropolitana do Rio de Janeiro,23800 - 26599
+2xxxx,Rio de Janeiro (RJ),RJ Interior,26600 - 28999
+2xxxx,Espírito Santo (ES),Vitória,29000 - 29099
+2xxxx,Espírito Santo (ES),ES Região Metropolitana de Vitória,29100 - 29199
+2xxxx,Espírito Santo (ES),ES Interior,29200 - 29999
+3xxxx,Minas Gerais (MG),Belo Horizonte,30000 - 31999
+3xxxx,Minas Gerais (MG),MG Região Metropolitana de Belo Horizonte,32000 - 34999
+3xxxx,Minas Gerais (MG),MG Interior,35000 - 39999
+4xxxx,Bahia (BA),Salvador,40000 - 42599
+4xxxx,Bahia (BA),BA Região Metropolitana de Salvador,42600 - 43999
+4xxxx,Bahia (BA),BA Interior,44000 - 48999
+4xxxx,Sergipe (SE),Aracaju,49000 - 49099
+4xxxx,Sergipe (SE),SE Interior,49100 - 49999
+5xxxx,Pernambuco (PE),Recife,50000 - 52999
+5xxxx,Pernambuco (PE),PE Região Metropolitana do Recife,53000 - 54999
+5xxxx,Pernambuco (PE),PE Interior,55000 - 56999
+5xxxx,Alagoas (AL),Maceió,57000 - 57099
+5xxxx,Alagoas (AL),AL Interior,57100 - 57999
+5xxxx,Paraiba (PB),João Pessoa,58000 - 58099
+5xxxx,Paraiba (PB),PB Interior,58100 - 58999
+5xxxx,Rio Grande do Norte (RN),Natal,59000 - 59139
+5xxxx,Rio Grande do Norte (RN),RN Interior,59140 - 59999
+6xxxx,Ceará (CE),Fortaleza,60000 - 61599
+6xxxx,Ceará (CE),CE Região Metropolitana de Fortaleza,61600 - 61999
+6xxxx,Ceará (CE),CE Interior,62000 - 63999
+6xxxx,Piauí (PI),Teresina,64000 - 64099
+6xxxx,Piauí (PI),PI Interior,64100 - 64999
+6xxxx,Maranhão (MA),São Luís,65000 - 65099
+6xxxx,Maranhão (MA),MA Interior,65100 - 65999
+6xxxx,Pará (PA),Belém,66000 - 66999
+6xxxx,Pará (PA),PA Região Metropolitana de Belém,67000 - 67999
+6xxxx,Pará (PA),PA Interior,68000 - 68899
+6xxxx,Amapá (AP),Macapá,68900 - 68914
+6xxxx,Amapá (AP),AP Interior,68915 - 68999
+6xxxx,Amazonas (AM),Manaus,69000 - 69099
+6xxxx,Amazonas (AM),AM Interior,69100 - 69299
+6xxxx,Amazonas (AM),AM Interior,69400 - 69899
+6xxxx,Roraima (RR),Boa Vista,69300 - 69339
+6xxxx,Roraima (RR),RR Interior,69340 - 69399
+6xxxx,Acre (AC),Rio Branco,69900 - 69920
+6xxxx,Acre (AC),AC Interior,69921 - 69999
+7xxxx,Distrito Federal (DF),Brasília,70000 - 70999
+7xxxx,Distrito Federal (DF),DF Cidades-Satélites,71000 - 72799
+7xxxx,Distrito Federal (DF),DF Cidades-Satélites,73000 - 73699
+7xxxx,Distrito Federal (DF),Goiânia,74000 - 74899
+7xxxx,Distrito Federal (DF),GO Região Metropolitana de Goiânia,74900 - 75199
+7xxxx,Distrito Federal (DF),GO Entorno do Distrito Federal,72800 - 72999
+7xxxx,Distrito Federal (DF),GO Interior,73700 - 73999
+7xxxx,Distrito Federal (DF),GO Interior,75200 - 76799
+7xxxx,Rondônia(RO),Porto Velho,76800 - 76849
+7xxxx,Rondônia(RO),RO Interior,76850 - 76999
+7xxxx,Tocantins(TO),Palmas,77000 - 77299
+7xxxx,Tocantins(TO),TO Interior,77300 - 77999
+7xxxx,Mato Grosso(MT),Cuiabá,78000 - 78109
+7xxxx,Mato Grosso(MT),MT Interior,78110 - 78999
+7xxxx,Mato Grosso do Sul(MS),Campo Grande,79000 - 79129
+7xxxx,Mato Grosso do Sul(MS),MS Interior,79130 - 79999
+8xxxx,Paraná (PR),Curitiba,80000 - 82999
+8xxxx,Paraná (PR),PR Região Metropolitana de Curitiba,83000 - 83899
+8xxxx,Paraná (PR),PR Interior,83900 - 87999
+8xxxx,Paraná (PR),Florianópolis,88000 - 88099
+8xxxx,Paraná (PR),SC Região Metropolitana de Florianópolis,88100 - 88179
+8xxxx,Paraná (PR),SC Interior,88180 - 89999
+9xxxx,Rio Grande do Sul (RS),Porto Alegre,90000 - 91999
+9xxxx,Rio Grande do Sul (RS),RS Região Metropolitana de Porto Alegre,92000 - 94999
+9xxxx,Rio Grande do Sul (RS),RS Interior,95000 - 99999

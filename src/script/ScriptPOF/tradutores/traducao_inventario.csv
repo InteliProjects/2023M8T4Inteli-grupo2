@@ -1,0 +1,17 @@
+Código da variável,Tradução código da variável
+UF,unidade_federativa
+ESTRATO_POF,estratificacao_geografica
+TIPO_SITUACAO_REG,situacao_domicilio
+COD_UPA,codigo_unidade_primaria_amostragem
+NUM_DOM,numero_domicilio
+NUM_UC,numero_unidade_consumo
+QUADRO,quadro
+SEQ,numero_sequencial_linha_quadro
+V9001,codigo_tipo_bem_duravel
+V9005,quantidade_bem_duravel
+V9002,forma_ultima_aquisicao_bem_duravel
+V1404,ano_ultima_aquisicao_bem_duravel
+V9012,estado_ultima_aquisicao_bem_duravel
+PESO,fator_expansao_upa
+PESO_FINAL,fator_expansao_upa_total
+RENDA_TOTAL,renda_bruta_mensal_total

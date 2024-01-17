@@ -1,0 +1,20 @@
+Código da variável,Tradução código da variável
+UF,unidade_federacao
+ESTRATO_POF,estratificacao_geografica
+TIPO_SITUACAO_REG,situacao_domicilio
+COD_UPA,codigo_unidade_primaria
+NUM_DOM,numero_domicilio
+NUM_UC,numero_unidade_consumo
+QUADRO,numero_quadro
+V9001,codigo_tipo_despesa
+V9002,forma_aquisicao
+V8000,aluguel_estimado
+V9010,ultimo_mes_despesa_aquisicao
+V9011,meses_despesa_aquisicao
+DEFLATOR,deflator
+V8000_DEFLA,aluguel_estimado_deflacionado
+COD_IMPUT_VALOR,aluguel_estimado_imputado
+FATOR_ANUALIZACAO,anualizacao_aluguel_estimado
+PESO,fator_expansao_upa
+PESO_FINAL,fator_expansao_upa_total
+RENDA_TOTAL,renda_bruta_mensal_total

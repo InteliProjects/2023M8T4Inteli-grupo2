@@ -1,0 +1,23 @@
+Código da variável,Tradução código da variável
+UF,unidade_federacao
+ESTRATO_POF,estratificacao_geografica
+TIPO_SITUACAO_REG,situacao_domicilio
+COD_UPA,codigo_unidade_primaria_amostragem
+NUM_DOM,numero_domicilio
+NUM_UC,numero_unidade_consumo
+COD_INFORMANTE,numero_informante
+QUADRO,quadro
+SEQ,numero_sequencial_linha_quadro
+V9001,codigo_despesa_aquisicao
+V8500,valor_rendimento
+V8501,valor_deducao
+V9010,mes_ultimo_rendimento
+V9011,meses_rendimento_recebido
+DEFLATOR,deflator
+V8500_DEFLA,valor_rendimento_deflacionado
+V8501_DEFLA,valor_deducao_deflacionado
+COD_IMPUT_VALOR,valor_rendimento_aquisicao_imputado
+FATOR_ANUALIZACAO,anualizacao_rendimento_aquisicoes
+PESO,fator_expansao_upa
+PESO_FINAL,fator_expansao_upa_final
+RENDA_TOTAL,renda_bruta_mensal_total
